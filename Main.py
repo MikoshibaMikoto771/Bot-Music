@@ -11,4 +11,4 @@ for i in range(len(cogs)):
 
 
 
-client.run ("TOKE
+client.run ("TOKEN")
